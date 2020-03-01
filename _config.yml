@@ -1,0 +1,15 @@
+# Site settings
+title: Tyler Reny
+email: ttreny@ucla.edu	
+description: >
+ Department of Political Science 
+ 4289 Bunche Hall
+ Los Angeles, CA 90095
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://tylerreny.github.io" # the base hostname & protocol for your site
+twitter_username: tylerreny	
+github_username:  tylerreny
+encoding: UTF-8
+# Build settings
+markdown: kramdown
+
