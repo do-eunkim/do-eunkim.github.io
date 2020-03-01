@@ -4,6 +4,6 @@ title: CV
 permalink: /cv/
 ---
 
-You can download the CV [here](http://tylerreny.github.io/pdf/cv-reny.pdf).
+You can download the CV [here](https://github.com/doeun-kim/doeun-kim.github.io/blob/master/pdf/cv.pdf).
 
-<iframe src="http://tylerreny.github.io/pdf/cv-reny.pdf" width="100%" height="1000"></iframe>
+<iframe src="https://github.com/doeun-kim/doeun-kim.github.io/blob/master/pdf/cv.pdf" width="100%" height="1000"></iframe>
